@@ -1,5 +1,3 @@
-# LurjanSela
-
 <h1>Hi, I'm Lurjan Sela! <a href="https://www.linkedin.com/in/lurjansela/"> </a>
 
 <h2>👨‍💻 Projects:</h2>
