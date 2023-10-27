@@ -8,6 +8,12 @@
 <h2>📜 Certifications:</h2>
 
   - [CyberSecurity Asset Management (CSAM)](https://github.com/LurjanSela/Certifications/blob/main/CyberSecurity%20Asset%20Management%20(CSAM).pdf)
+  - [Patch Management](https://github.com/LurjanSela/Certifications/blob/main/Patch%20Management.pdf)
+  - [Reporting Strategies and Best Practices](https://github.com/LurjanSela/Certifications/blob/main/Reporting%20Strategies%20and%20Best%20Practices.pdf)
+  - [Scanning Strategies and Best Practices](https://github.com/LurjanSela/Certifications/blob/main/Scanning%20Strategies%20and%20Best%20Practices.pdf)
+  - [Vulnerability Management Detection & Response](https://github.com/LurjanSela/Certifications/blob/main/Vulnerability%20Management%20Detection%20%26%20Response.pdf)
+  - [Vulnerability Management Detection & Response](https://github.com/LurjanSela/Certifications/blob/main/Vulnerability%20Management%20Detection%20%26%20Response.pdf)
+  - [Web Application Scanning](https://github.com/LurjanSela/Certifications/blob/main/Web%20Application%20Scanning.pdf)
 
 <h2> 🤳 Connect with me:</h2>
 
