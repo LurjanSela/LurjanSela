@@ -3,6 +3,8 @@
 <h2>👨‍💻 Projects:</h2>
 
   - [Active-Directory-Home-Lab](https://github.com/LurjanSela/Active-Directory-Home-Lab)
+  - [4-Bit RPN Calculator Design and Implementation](https://github.com/LurjanSela/4-Bit-RPN-Calculator)
+  - [Parking Partner](https://github.com/LurjanSela/Parking-Partner)
 
   
 <h2>📜 Certifications:</h2>
